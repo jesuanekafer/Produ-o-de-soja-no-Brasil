@@ -1,7 +1,7 @@
 # Dashboard de Análise de Acompanhamento de Produção de Soja no Brasil
 
 ![Dashboard de Análise de Acompanhamento de Produção de Soja no Brasil](./assets/text.png)
-![Dashboard de Análise de Acompanhamento de Produção de Soja no Brasil](./assets/table.png)
+![Dashboard de Análise de Acompanhamento de Produção de Soja no Brasil](./assets/tabela.png)
 ![Dashboard de Análise de Acompanhamento de Produção de Soja no Brasil](./assets/brasil.png)
 ![Dashboard de Análise de Acompanhamento de Produção de Soja no Brasil](./assets/dolar_states.png)
 ![Dashboard de Análise de Acompanhamento de Produção de Soja no Brasil](./assets/import_countries.png)
